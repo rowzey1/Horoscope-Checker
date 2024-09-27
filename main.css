@@ -1,0 +1,47 @@
+body{
+    background-image: url("Horoscope Pictures/galaxy.png");
+    background-size: cover;
+    
+}
+
+div,section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color:white;
+    text-align: center;
+   margin-top:none;
+   font-family: 'Dancing script';
+   font-size: 100px;
+}
+
+
+.Zodiac img{
+    width:400px;
+    height: 400px;
+    margin-top:20px;
+}
+
+.hidden{
+   display:none;
+}
+
+p{
+    color:white;
+    text-align: center;
+   font-family: 'Dancing script';
+   font-size: 40px;
+}
+
+button{
+    text-align: center;
+    
+    color:purple;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Dancing script';
+}
