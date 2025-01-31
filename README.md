@@ -1,6 +1,6 @@
 ##Project
 <ul>
-<li>This is a simple program that uses birth month and day to calculate zodiac sign, and determine personality traits based on horoscope.</li>
+<li>This is a program that uses birth month and day to calculate zodiac sign, and determine personality traits based on horoscope.</li>
 <li>This program uses a combination of conditional statements(if, else if, else) to toggle images with the class of hidden "on" or "off", based on the users input of their birthday, and birth month. </li>
 <li>Images containing all 12 zodiac signs, and their personality traits are displayed on the DOM, and are all assigned the class of hidden.</li>
 <li>The display for all images with the class of hidden is set to none, so that no images show on default. </li>
